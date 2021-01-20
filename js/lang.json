@@ -1,0 +1,11 @@
+
+{
+  "es":{
+    " prueba1 ":"Esto es una prueba ",
+    " prueba2 " : " Este texto esta en español"
+  },
+  " en " : {
+    " prueba1 ":" Esto es una prueba ",
+    " prueba2 " : " Este texto está en inglés"
+  }
+}
